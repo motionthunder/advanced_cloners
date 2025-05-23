@@ -1,0 +1,11 @@
+{
+    "Enable": true,
+    "Strength": 1.0,
+    "Position": [0.0, 0.0, 0.0],
+    "Rotation": [0.0, 0.0, 0.0],
+    "Scale": [0.0, 0.0, 0.0],
+    "Uniform Scale": true,
+    "Seed": 0,
+    "Field": 1.0,
+    "Use Field": false
+}

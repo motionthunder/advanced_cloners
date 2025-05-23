@@ -1,0 +1,16 @@
+{
+    "Count": 8,
+    "Radius": 4.0,
+    "Height": 0.0,
+    "Global Position": [0.0, 0.0, 0.0],
+    "Global Rotation": [0.0, 0.0, 0.0],
+    "Instance Rotation": [0.0, 0.0, 0.0],
+    "Instance Scale": [1.0, 1.0, 1.0],
+    "Random Position": [0.0, 0.0, 0.0],
+    "Random Rotation": [0.0, 0.0, 0.0],
+    "Random Scale": 0.0,
+    "Random Seed": 0,
+    "Pick Random Instance": false,
+    "Use Effector": true,
+    "Align to Circle": true
+}

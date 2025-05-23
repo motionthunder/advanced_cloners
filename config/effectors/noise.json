@@ -1,0 +1,21 @@
+{
+    "Enable": true,
+    "Strength": 1.0,
+    "Position": [0.5, 0.5, 0.5],
+    "Symmetric Translation": false,
+    "Rotation": [15.0, 15.0, 15.0],
+    "Symmetric Rotation": false,
+    "Scale": [0.2, 0.2, 0.2],
+    "Uniform Scale": true,
+    "Noise Scale": 0.5,
+    "Noise Detail": 2.0,
+    "Noise Roughness": 0.5,
+    "Noise Lacunarity": 2.0,
+    "Noise Distortion": 0.0,
+    "Noise Position": [0.0, 0.0, 0.0],
+    "Noise XYZ Scale": [1.0, 1.0, 1.0],
+    "Speed": 0.0,
+    "Seed": 0,
+    "Field": 1.0,
+    "Use Field": false
+}
